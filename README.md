@@ -1,5 +1,21 @@
-# jinxiaochi.github.io
-个人网站(vue.js+elementUI); 
-相当于个人博客吧,之前工作去了,搁置了一段时间.
+# personalweb
 
-github.io这种方式的网页可能被错误的被指定ip为127.0.0.1(win10),所以请修改hosts文件;
+> personal website to show myself
+
+## Build Setup
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+
+# build for production and view the bundle analyzer report
+npm run build --report
+```
+
+For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
